@@ -11,7 +11,7 @@
 ## My Specilization Certificate 
 </br>
 
-![](Machine-Learning_specialization-Coursera.png)
+![](Machine-Learning-Specialization-Coursera.png)
 
 ---
 
