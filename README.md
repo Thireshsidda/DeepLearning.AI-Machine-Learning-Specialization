@@ -97,3 +97,11 @@ Curriculum Engineer
 TOP INSTRUCTOR
 Curriculum Engineer
 DeepLearning.AI
+
+
+## Author
+
+👤 **Thiresh Sidda**
+
+* LinkedIn: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
+* GitHub: [@ThireshSidda](https://github.com/Thireshsidda)
