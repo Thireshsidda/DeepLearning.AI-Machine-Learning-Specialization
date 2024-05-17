@@ -2,11 +2,14 @@
 ## By **Andrew Ng, Stanford University and DeepLearning.ai**
 ## Offered in [**Coursera**](https://www.coursera.org/specializations/machine-learning-introduction)
 
----
+## Courses
 
-#BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng.
+[Course 1: Natural Language Processing with Classification and Vector Spaces](1 Supervised Machine Learning Regression and Classification)
 
----
+[Course 2: Natural Language Processing with Probabilistic Models](2 Advanced Learning Algorithms)
+
+[Course 3: Natural Language Processing with Sequence Models](3 Unsupervised Learning, Recommenders, Reinforcement Learning)
+
 
 ## My Specilization Certificate 
 </br>
